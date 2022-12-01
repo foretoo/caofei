@@ -1,0 +1,1 @@
+*{margin:0;padding:0;font-size:20px;line-height:1rem}html,body,#container{width:100%;height:100%;position:fixed;overflow:hidden}body{background-color:#000}#container{display:flex;justify-content:center;align-items:center}#container *{position:absolute}button#activate{padding:.3rem .5rem;margin:1rem;font-size:.8rem}
